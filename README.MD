@@ -1,4 +1,4 @@
-# Bootcamp Fullstack - Frontend G23
+# Bootcamp Fullstack - MiPortafolio
 
 ![Codigo](https://codigo.edu.pe/wp-content/themes/codigo_theme/images/logo-color-go.svg)
 
